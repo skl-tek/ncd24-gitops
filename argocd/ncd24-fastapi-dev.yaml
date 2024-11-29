@@ -12,7 +12,7 @@ spec:
     helm:
       valueFiles:
       - $values/helm-values/ncd24-fastapi-dev.yaml
-  - repoURL: https://github.com/winggundamth/ncd24-gitops.git
+  - repoURL: https://github.com/skl-tek/ncd24-gitops.git
     targetRevision: main
     ref: values
   destination:
