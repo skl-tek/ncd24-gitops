@@ -4,7 +4,7 @@ nodePort: 31002
 containerPort: 8000
 image:
   repository: ghcr.io/skl-tek/ncd24-fastapi
-  tag: dev-03d84c2
+  tag: dev-06563b3
   pullPolicy: Always
 probe:
   enabled: true
